@@ -1,0 +1,4 @@
+morse3==2.9
+pydub==0.24.1
+qrcode==6.1
+pyTelegramBotAPI==3.7.4
